@@ -1,4 +1,3 @@
-Juliano Gustavo Martins
 ## Olá eu sou o Juliano Martins, consultor de TI, apaixonado por programação e tecnologia!
 <div align="center">
   <a href="https://github.com/scardofax">
