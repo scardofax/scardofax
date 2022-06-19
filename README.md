@@ -3,8 +3,7 @@
 <div align="center">
   <a href="https://github.com/scardofax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scardofax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scardofax&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://skyline.github.com/scardofax/2021"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scardofax&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
     
   
